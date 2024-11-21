@@ -1,0 +1,1 @@
+The Weekly Planner is a Python-based project designed to help users organize their week effectively. It includes features like a to-do list, daily task tracking, weekly goals, and code snippets for daily inspiration or productivity. This planner aims to boost time management and ensure users stay on track with their personal and professional objectives.
